@@ -1,0 +1,109 @@
+.overlay-container {
+    position: relative;
+    width: 100%;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    text-align: right;
+    color: white;
+    font-family: inika;
+}
+
+.overlay-container {
+    position: relative;
+    width: 100%;
+}
+
+.me {
+    position: absolute;
+    top: 80%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 450px;
+}
+
+.AboutMe {
+    position: absolute;
+    top: 160%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.Text {
+    position: absolute;
+    top: 165%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.resume {
+    position: absolute;
+    top: 220%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.line2{
+    position: absolute;
+    top: 230%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.arrow1{
+    position: absolute;
+    top: 300%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.arrow2{
+    position: absolute;
+    top: 250%;
+    left: 59.9%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.highschl{
+    position: absolute;
+    top: 249.5%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.text1{
+    position: absolute;
+    top: 262%;
+    left: 82.3%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.lca{
+    position: absolute;
+    top: 299%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.text2{
+    position: absolute;
+    top: 310%;
+    left: 14.78%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
