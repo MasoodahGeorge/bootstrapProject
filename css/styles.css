@@ -689,3 +689,7 @@ p {
     color: aliceblue;
     text-align: center;
 }
+
+@media screen and (max-width:300px){
+        
+}
