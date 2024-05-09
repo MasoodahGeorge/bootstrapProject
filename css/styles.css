@@ -169,7 +169,7 @@
 
 /*ABOUT SECTION*/
 .abtSec {
-    width: 1;
+    width: 100%;
     height: 615px;
     background: linear-gradient(180deg, #130048 0%, #4C3D75 77%);
 }
@@ -318,7 +318,7 @@
 
 .Testimonials {
     position: absolute;
-    top: 430%;
+    top: 440%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1; 
@@ -547,7 +547,7 @@
 
 .Projects {
     position: absolute;
-    top: 540%;
+    top: 550%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -565,6 +565,15 @@
 #card {
     padding-top: 15rem;
 }
+
+.card-body{
+    background-color: #4C3D75;
+}
+
+.card-text{
+    color: white;
+}
+
 
 .d-flex {
     margin-left: 1rem;
