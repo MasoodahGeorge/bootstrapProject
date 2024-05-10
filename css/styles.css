@@ -289,7 +289,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 300px;
-    height: 3000px;
+    height: 240px;
 
 }
 
@@ -364,7 +364,6 @@
     z-index: 1;
     width: 230px;
     height: 230px;
-    background: goldenrod;
     border-radius: 9999px;
 }
 
@@ -387,7 +386,6 @@
     z-index: 1;
     width: 230px;
     height: 230px;
-    background: goldenrod;
     border-radius: 9999px;
 }
 
