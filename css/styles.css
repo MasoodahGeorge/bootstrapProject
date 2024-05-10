@@ -398,7 +398,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 230px;
-    height: 300px;
+    height: 350px;
     background: goldenrod;
     border-radius: 15px;
     text-align: center;
@@ -411,7 +411,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 230px;
-    height: 300px;
+    height: 350px;
     background: goldenrod;
     border-radius: 15px;
     text-align: center;
@@ -424,7 +424,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 230px;
-    height: 300px;
+    height: 350px;
     background: goldenrod;
     border-radius: 15px;
     text-align: center;
@@ -437,7 +437,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 230px;
-    height: 300px;
+    height: 350px;
     background: goldenrod;
     border-radius: 15px;
     text-align: center;
@@ -450,7 +450,7 @@
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 230px;
-    height: 300px;
+    height: 350px;
     background: goldenrod;
     border-radius: 15px;
     text-align: center;
@@ -458,7 +458,7 @@
 
 .Testimonial1 {
     position: absolute;
-    top: 517%;
+    top: 519%;
     left: 10%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -475,7 +475,7 @@
 
 .Testimonial2 {
     position: absolute;
-    top: 519%;
+    top: 520%;
     left: 30%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -492,7 +492,7 @@
 
 .Testimonial3 {
     position: absolute;
-    top: 505%;
+    top: 508%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -550,7 +550,7 @@
 
 .Projects {
     position: absolute;
-    top: 540%;
+    top: 555%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -566,7 +566,7 @@
 }
 
 #card {
-    padding-top: 15rem;
+    padding-top: 25rem;
 }
 
 .card-body {
@@ -712,6 +712,8 @@
     transform: translate(-50%, -50%);
     z-index: 1;
 }
+
+
 
 /*FOOTER SECTION*/
 .footer {
